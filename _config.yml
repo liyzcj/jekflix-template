@@ -1,21 +1,21 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
+title: LiyzCj | a blog of Liyanzhe and Guchaojun
+email: liyz0912@gmail.com
+description: This is a test!
 baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
 url: "https://www.rossener.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
-disqus_username: disqus_username
+username: LiYanzhe
+user_description: My name is Alex~
+disqus_username: liyzcj
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
+github_username: liyzcj 
+facebook_username: alex li
+twitter_username: alex
 instagram_username: instagram_username
 linkedin_username: linkedin_username
 medium_username: medium_username
@@ -34,8 +34,8 @@ gems:
 links:
   - title: Home
     url: /
-  - title: About
-    url: /about/
+  - title: alex
+    url: /alex/
   - title: Contact
     url: /contact/
 
